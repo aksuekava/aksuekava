@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-- Just ignore this README
+Just ignore this README
