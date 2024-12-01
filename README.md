@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Just ignore this README
+I'm working on writing code that probably won't crash your system.
